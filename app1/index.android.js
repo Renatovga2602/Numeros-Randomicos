@@ -1,5 +1,5 @@
-var React = require('react');
-var { Text, View, Button, AppRegistry } = require('react-native');
+import React from 'react';
+import { Text, View, Button, AppRegistry } from 'react-native';
 //var View = require('react-native').View;
 //var Button = require('react-native').Button;
 //var AppRegistry = require('react-native').AppRegistry;
